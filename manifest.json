@@ -1,10 +1,10 @@
 {
   "name": "مساري",
   "short_name": "مساري",
-  "start_url": "/focusline/",
+  "start_url": "/focusline/", 
   "display": "standalone",
-  "background_color": "#000000",
-  "theme_color": "#000000",
+  "background_color": "#0a0f1e",
+  "theme_color": "#0a0f1e",
   "icons": [
     {
       "src": "icon-192.png",

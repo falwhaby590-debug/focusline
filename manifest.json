@@ -1,6 +1,6 @@
 {
-  "name": "جدول اليومي",
-  "short_name": "جدول اليومي",
+  "name": "مساري",
+  "short_name": "مساري",
   "start_url": "/focusline/",
   "display": "standalone",
   "background_color": "#000000",
